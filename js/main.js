@@ -46,7 +46,7 @@ html{
 `
 
 var css2 = `
-/* 接下来用一个优秀的库 marked.js
+/* 接下来用一个库 marked.js
  * 把 Markdown 变成 HTML
  */
 
@@ -64,26 +64,29 @@ var md = `
 
 # 技能介绍
 
-熟悉 JavaScript  HTML  CSS
+熟悉 JavaScript / HTML / CSS(3) / Vue.js / webpack / NPM 发布与管理 等前端技术
 
 # 项目介绍
 
-1. XXX 轮播
-2. XXX 简历
-3. XXX 画板
+1.[《用 Vue 仿 CNode 社区》](https://zhangfan4132.github.io/CNode/dist/)
+2.[《jQuery 仿<NetEase>网易云音乐》](http://www.fan-zh.com/)
+3.[《canvas画板》](https://zhangfan4132.github.io/Canvas-board-Mobile-/)
+4.[《会动的简历》](https://zhangfan4132.github.io/animating-resume/)
+5.[《手机端豆瓣展现》](https://zhangfan4132.github.io/Mobile-Douban/)
 
 # 联系方式
 
-- QQ 413273029
-- Email 413273029@qq.com
-- 手机 18851706206
+- 手机: 18851706206
+- QQ: 413273029
+- Email: 413273029@qq.com
+
 
 
 `
 let css3 = `
 /*
  * 这就是我的会动的简历
- * 谢谢观看
+ * 谢谢观看！
  */
 `
 
