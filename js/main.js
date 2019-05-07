@@ -54,27 +54,32 @@ var css2 = `
 
 `
 var md = `
-# 自我介绍
+## 自我介绍
 
-我叫 张帆
-1992 年 6 月出生
-大连交通大学毕业
-自学前端一年
-希望应聘前端开发岗位
+我叫 张帆，
+1992 年 6 月出生，
+大连交通大学毕业，
+自学前端一年，
+希望应聘贵司的前端开发岗位
 
-# 技能介绍
+## 技能介绍
 
-熟悉 JavaScript / HTML / CSS(3) / Vue.js / webpack / NPM 发布与管理 等前端技术
+熟悉 JavaScript / HTML / CSS(3) / Vue.js / webpack打包 / NPM 发布与管理 等等前端技术
+并热衷不断探索新知识、新领域。
 
-# 项目介绍
+## 项目介绍
 
 1.[《用 Vue 仿 CNode 社区》](https://zhangfan4132.github.io/CNode/dist/)
+
 2.[《jQuery 仿<NetEase>网易云音乐》](http://www.fan-zh.com/)
+
 3.[《canvas画板》](https://zhangfan4132.github.io/Canvas-board-Mobile-/)
+
 4.[《会动的简历》](https://zhangfan4132.github.io/animating-resume/)
+
 5.[《手机端豆瓣展现》](https://zhangfan4132.github.io/Mobile-Douban/)
 
-# 联系方式
+## 联系方式
 
 - 手机: 18851706206
 - QQ: 413273029
@@ -86,7 +91,7 @@ var md = `
 let css3 = `
 /*
  * 这就是我的会动的简历
- * 谢谢观看！
+ * 谢谢您抽出宝贵时间观看！
  */
 `
 
